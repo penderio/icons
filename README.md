@@ -1,5 +1,7 @@
 # Icons
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/entercosmos/icons.svg)](https://greenkeeper.io/)
+
 [![npm package][npm-badge]][npm]
 
 Used for adding icons to things.
