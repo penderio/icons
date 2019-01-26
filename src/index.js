@@ -17,6 +17,7 @@ import createdTime from './createdTime'
 import date from './date'
 import dotsX from './dotsX'
 import dotsY from './dotsY'
+import download from './download'
 import filter from './filter'
 import galleryView from './galleryView'
 import gridView from './gridView'
@@ -29,7 +30,9 @@ import menu from './menu'
 import multipleCollaborator from './multipleCollaborator'
 import multipleSelect from './multipleSelect'
 import number from './number'
+import paperclip from './paperclip'
 import pause from './pause'
+import pencil from './pencil'
 import play from './play'
 import plus from './plus'
 import plus2 from './plus2'
@@ -38,6 +41,8 @@ import sharedView from './sharedView'
 import singleLineText from './singleLineText'
 import singleSelect from './singleSelect'
 import sorter from './sorter'
+import spinner from './spinner'
+import trash from './trash'
 import unlink from './unlink'
 import updatedTime from './updatedTime'
 import viewMutability from './viewMutability'
@@ -62,6 +67,7 @@ export default {
     date,
     dotsX,
     dotsY,
+    download,
     filter,
     galleryView,
     gridView,
@@ -74,7 +80,9 @@ export default {
     multipleCollaborator,
     multipleSelect,
     number,
+    paperclip,
     pause,
+    pencil,
     play,
     plus,
     plus2,
@@ -83,6 +91,8 @@ export default {
     singleLineText,
     singleSelect,
     sorter,
+    spinner,
+    trash,
     unlink,
     updatedTime,
     viewMutability
