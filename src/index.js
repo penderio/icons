@@ -46,6 +46,14 @@ import trash from './trash'
 import unlink from './unlink'
 import updatedTime from './updatedTime'
 import viewMutability from './viewMutability'
+import mail from './mail'
+import button from './button'
+import formula from './formula'
+import export1 from './export1'
+import alphabetize from './alphabetize'
+import external from './external'
+import regenerate from './regenerate'
+import share from './share'
 
 export default {
     arrowDown,
@@ -95,5 +103,13 @@ export default {
     trash,
     unlink,
     updatedTime,
-    viewMutability
+    viewMutability,
+    mail,
+    button,
+    formula,
+    export1,
+    alphabetize,
+    external,
+    regenerate,
+    share
 }

@@ -1,6 +1,6 @@
 {
   "name": "@cmds/icons",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Used for adding icons to things.",
   "main": "lib/index.js",
   "module": "es/index.js",
