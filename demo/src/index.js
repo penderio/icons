@@ -5,7 +5,7 @@ import {css} from 'emotion'
 import map from 'lodash/map'
 import icons from '../../src'
 
-import {Canvas, Heading, Paragraph} from '@cmds/demo-utils'
+import {Canvas, Heading, Paragraph} from '@pndr/demo-utils'
 
 injectGlobal`
     * {
